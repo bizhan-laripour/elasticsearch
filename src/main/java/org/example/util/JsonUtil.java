@@ -13,14 +13,14 @@ import java.io.IOException;
 import java.util.Map;
 
 public class JsonUtil {
-
-    public static void main(String[] args) throws JsonProcessingException {
-
-        String json = "{shenasehParvandeh:p, isHadeaghalAsnad: , sanadList: , pardakhtList: , tarikhGoshayesh:1401-11-12, tarikhSarresid: , samtakSwiftKargozarList: , isBedounPardakhtOrSanad: , bankShobehCode:548687684, mablaghArzi:10000, abzarPardakhtTypeCode:5454545, shomarehAbzar:1450065978, shomarehSabtSefaresh:15024071, bedounTaahod: ,isHavalehGheyreBanki: , nahveyePardakhtList: }";
-
-        jsonConverter(json);
-
-    }
+//
+//    public static void main(String[] args) throws JsonProcessingException {
+//
+//        String json = "{shenasehParvandeh:p, isHadeaghalAsnad: , sanadList: , pardakhtList: , tarikhGoshayesh:1401-11-12, tarikhSarresid: , samtakSwiftKargozarList: , isBedounPardakhtOrSanad: , bankShobehCode:548687684, mablaghArzi:10000, abzarPardakhtTypeCode:5454545, shomarehAbzar:1450065978, shomarehSabtSefaresh:15024071, bedounTaahod: ,isHavalehGheyreBanki: , nahveyePardakhtList: }";
+//
+//        jsonConverter(json);
+//
+//    }
 
 
 
