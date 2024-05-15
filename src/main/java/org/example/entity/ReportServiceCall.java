@@ -19,7 +19,6 @@ public class ReportServiceCall {
     @JsonIgnore
     private String id;
 
-
     @Field(type = FieldType.Date, format = DateFormat.date_hour_minute_second_millis)
     private Date serviceDate;
 
